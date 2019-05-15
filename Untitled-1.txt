@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/demo/demo_form.asp">
+User:<br>
+<input type="text" name="user">
+<br>
+Key:<br>
+<input type="text" name="key">
+<br><br>
+<input type="submit">
+</form>
+
+
+
+</body>
+</html>

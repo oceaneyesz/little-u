@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+li
+{
+float:left;
+}
+a:link,a:visited
+{
+display:block;
+width:120px;
+font-weight:bold;
+color:#FFFF99;
+background-color:#bebebe;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#cc0000;
+}
+
+</style>
+</head>
+
+
+<body>
+<ul>
+<li><a href="#friends">好友动态</a></li>
+<li><a href="#addfriends">添加好友</a></li>
+<li><a href="#time">时间轴</a></li>
+<li><a href="#edittask">编辑任务</a></li>
+</ul>
+
+
+</body>
+</html>
